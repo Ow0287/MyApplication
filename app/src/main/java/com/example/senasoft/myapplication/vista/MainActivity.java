@@ -1,7 +1,9 @@
-package com.example.senasoft.myapplication;
+package com.example.senasoft.myapplication.vista;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+
+import com.example.senasoft.myapplication.R;
 
 public class MainActivity extends AppCompatActivity {
 
